@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Hotel-Management-System
 
 Welcome to the Hotel Management System project repository. This web application is designed to facilitate efficient management of hotel operations, including reservations, room services, and guest interactions. It provides a user-friendly interface for both guests and administrative staff to navigate through various functionalities seamlessly.
@@ -59,4 +58,4 @@ Contributions to enhance the functionality, improve user interface, or fix bugs 
 5. Submit a pull request with a detailed explanation of your changes.
 =======
 # Hotel-Management-System
->>>>>>> a594d20272f6b46616ddf1e323f6b6e1e770c53a
+
