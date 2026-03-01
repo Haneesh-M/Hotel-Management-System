@@ -30,7 +30,7 @@ This project requires no installation for the frontend components. To run the ap
 
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/rishikreddycheruku/Hotel-Management-System.git
+   git clone https://github.com/Haneesh-M/Hotel-Management-System.git
    ```
 
 2. Open the `index.html` file in your preferred web browser.
@@ -56,6 +56,5 @@ Contributions to enhance the functionality, improve user interface, or fix bugs 
 3. Make your changes and commit them (`git commit -am 'Add new feature: Description'`).
 4. Push to your branch (`git push origin feature/new-feature`).
 5. Submit a pull request with a detailed explanation of your changes.
-=======
-# Hotel-Management-System
+
 
